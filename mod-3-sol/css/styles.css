@@ -1,1 +1,44 @@
 
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+.mainheading{
+	
+	text-align:center;
+	
+}
+
+.chicken{
+	
+	background-color:gray;
+	background:gray;
+	padding : 15px;
+	margin:50px 50px 50px 50px;
+}
+
+div > h1{
+	
+	text-align:center;
+	
+}
+
+#navlist {
+	
+	text-align:center;
+	
+}
+
+#navlist a:hover {
+	
+	background-color: gray;
+}
